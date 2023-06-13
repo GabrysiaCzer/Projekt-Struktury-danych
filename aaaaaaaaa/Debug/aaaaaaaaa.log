@@ -1,0 +1,3 @@
+﻿  aaaaaaaaa.cpp
+C:\Users\gabry\source\repos\aaaaaaaaa\aaaaaaaaa\aaaaaaaaa.cpp(202,30): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  aaaaaaaaa.vcxproj -> C:\Users\gabry\source\repos\aaaaaaaaa\Debug\aaaaaaaaa.exe
